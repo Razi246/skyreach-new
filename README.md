@@ -1,13 +1,5 @@
-# SkyReach Consult — Premium Website
+# SkyReach Consult — Premium Deep Blue / White / Gold
 
-Updated to the approved deep-navy + white + gold style with the star-style SkyReach wordmark, premium hero, gold flight-path accent, service cards, dark About section, process section, CTA, and matching footer.
+Updated visual direction based on the approved SkyReach concept: deep blue hero, white sections, elegant gold accents, star-style wordmark (no SR initials), flight-path accent, premium service cards, Why Choose Us section, responsive navigation and footer.
 
-## Files
-- `index.html` — website structure and content
-- `style.css` — responsive premium styling
-- `script.js` — mobile navigation
-
-## Contact
-WhatsApp: +964 782 649 8427
-Email: info@skyreachconsult.com
-Website: skyreachconsult.com
+Files: index.html, style.css, script.js.
