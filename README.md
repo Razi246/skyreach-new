@@ -1,10 +1,10 @@
-# Skyreach Consult
+# SkyReach Consult — Premium Website
 
-Professional blue/white website for Skyreach Consult — DBA Claims & Benefits Consultation.
+Updated to the approved deep-navy + white + gold style with the star-style SkyReach wordmark, premium hero, gold flight-path accent, service cards, dark About section, process section, CTA, and matching footer.
 
 ## Files
 - `index.html` — website structure and content
-- `style.css` — responsive styling
+- `style.css` — responsive premium styling
 - `script.js` — mobile navigation
 
 ## Contact
